@@ -170,32 +170,38 @@ Sensors ➜ ESP32 / Arduino ➜ Firebase & Flask AI ➜ Web Dashboard & Flutter 
 
 <h2 align="center">📁 Project Structure</h2>
 
-/project-folder
+## 📁 Project Structure
 
-├── hardware/
-│   ├── esp32_code.ino
-│   ├── arduino_code.ino
+```bash
+project-folder/
 │
-├── mobile_app/
-│   ├── flutter_app/
+├── 📂 hardware
+│   ├── ⚙️ esp32_code.ino
+│   └── ⚙️ arduino_code.ino
 │
-├── ai/
-│   ├── app.py
-│   ├── model.py
-│   ├── dataset.csv
+├── 📂 mobile_app
+│   └── 📱 flutter_app
 │
-├── web/
-│   ├── index.php
-│   ├── dashboard.php
-│   ├── config.php
+├── 📂 ai
+│   ├── 🤖 app.py
+│   ├── 🧠 model.py
+│   └── 📊 dataset.csv
 │
-├── database/
-│   ├── database.sql
+├── 📂 web
+│   ├── 🌐 index.php
+│   ├── 📊 dashboard.php
+│   └── ⚙️ config.php
 │
-└── assets/
-    ├── css/
-    ├── js/
-    ├── images/
+├── 📂 database
+│   └── 🗄️ database.sql
+│
+├── 📂 assets
+│   ├── 🎨 css
+│   ├── ⚡ js
+│   └── 🖼️ images
+│
+└── 📄 README.md
+```
 
 ---
 
