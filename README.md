@@ -1,7 +1,7 @@
 # 🚨 IoT App Detection Gas With AI 🤖☁️
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohamed00112200/Graduation-project/main/assets/images/banner.jpg" width="100%"/>
+  <img src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=1400&q=80" width="100%"/>
 </p>
 
 <p align="center">
