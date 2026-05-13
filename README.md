@@ -1,10 +1,6 @@
 # 🚨 IoT App Detection Gas With AI 🤖☁️
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1C42AnpjPuemHoHXkU-MsS-9UC0wTo5QK/view" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Graduation%20Project-2025-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IoT-AI-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Faculty%20of%20Science-Zagazig%20University-success?style=for-the-badge"/>
