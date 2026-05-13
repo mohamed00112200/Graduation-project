@@ -15,21 +15,6 @@
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
-<p align="center">
-  <img src="WhatsApp%20Image%202025-06-10%20at%2004.22.18_3a17dak79.jpg" width="900"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Graduation%20Project-2025-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-AI-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Faculty%20of%20Science-Zagazig%20University-success?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mohamed00112200/Graduation-project">
-    <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
 
 <br>
 
