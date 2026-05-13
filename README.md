@@ -1,7 +1,7 @@
 # 🚨 IoT App Detection Gas With AI 🤖☁️
 
 <p align="center">
-  <img src="WhatsApp%20Image%202025-06-10%20at%2004.22.18_3a17dak79.jpg" width="900"/>
+  <img src="https://github.com/mohamed00112200/Graduation-project/raw/main/WhatsApp%20Image%202025-06-10%20at%2004.22.18_3a17dak79.jpg" width="900" alt="Project Architecture"/>
 </p>
 
 <p align="center">
