@@ -172,7 +172,7 @@ Sensors ➜ ESP32 / Arduino ➜ Firebase & Flask AI ➜ Web Dashboard & Flutter 
 
 ## 📁 Project Structure
 
-```bash
+
 project-folder/
 │
 ├── 📂 hardware
@@ -201,7 +201,7 @@ project-folder/
 │   └── 🖼️ images
 │
 └── 📄 README.md
-```
+
 
 ---
 
