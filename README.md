@@ -1,7 +1,7 @@
 # 🚨 IoT App Detection Gas With AI 🤖☁️
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1C42AnpjPuemHoHXkU-MsS-9UC0wTo5QK/view?usp=sharing" width="100%"/>
+  <img src="https://drive.google.com/file/d/1C42AnpjPuemHoHXkU-MsS-9UC0wTo5QK/view" width="100%"/>
 </p>
 
 <p align="center">
